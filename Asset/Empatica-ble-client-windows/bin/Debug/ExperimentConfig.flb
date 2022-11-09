@@ -1,0 +1,18 @@
+AccessType CardReader
+//////////
+SkipTutorial N
+//////////
+UseRandomFailureChance Y
+AccessControlSuccessChance 0.5
+NumFails 2
+ResetDelay 4
+DoorReLockTime 5
+CardReaderAcceptanceDelay 0
+DoorRemainOpenTime 2
+//////////
+NumRounds 5
+MinPatternLength 3
+MaxPatternLength 6
+UseRandomPatterns Y
+//////////
+SaveFileLocation C:/Users/elor1/Desktop/E4Data/

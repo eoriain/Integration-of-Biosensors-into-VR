@@ -1,0 +1,60 @@
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe.config
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.pdb
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\Microsoft.CSharp.dll
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\System.Data.dll
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\System.dll
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\System.Xml.dll
+C:\Users\billy\Desktop\ble-client-windows-master\bin\Debug\System.Xml.Linq.dll
+C:\Users\billy\Desktop\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.csprojResolveAssemblyReference.cache
+C:\Users\billy\Desktop\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.csproj.CoreCompileInputs.cache
+C:\Users\billy\Desktop\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.exe
+C:\Users\billy\Desktop\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.pdb
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe.config
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.pdb
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\System.Data.dll
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\System.dll
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\System.Xml.dll
+C:\Users\Billy\Downloads\ble-client-windows-master\bin\Debug\System.Xml.Linq.dll
+C:\Users\Billy\Downloads\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.csprojAssemblyReference.cache
+C:\Users\Billy\Downloads\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.csproj.CoreCompileInputs.cache
+C:\Users\Billy\Downloads\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.csproj.CopyComplete
+C:\Users\Billy\Downloads\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.exe
+C:\Users\Billy\Downloads\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.pdb
+E:\Empatica\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe.config
+E:\Empatica\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe
+E:\Empatica\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.pdb
+E:\Empatica\ble-client-windows-master\bin\Debug\Microsoft.CSharp.dll
+E:\Empatica\ble-client-windows-master\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Empatica\ble-client-windows-master\bin\Debug\System.Data.dll
+E:\Empatica\ble-client-windows-master\bin\Debug\System.dll
+E:\Empatica\ble-client-windows-master\bin\Debug\System.Xml.dll
+E:\Empatica\ble-client-windows-master\bin\Debug\System.Xml.Linq.dll
+E:\Empatica\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.csproj.CoreCompileInputs.cache
+E:\Empatica\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.csproj.CopyComplete
+E:\Empatica\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.exe
+E:\Empatica\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.pdb
+E:\Empatica\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.csprojAssemblyReference.cache
+E:\UTRC Handover\Code\ble-client-windows-master\bin\Debug\EmpaticaBLEClient.exe.config
+E:\UTRC Handover\Code\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.exe
+E:\UTRC Handover\Code\ble-client-windows-master\obj\Debug\EmpaticaBLEClient.pdb
+E:\UTRC Handover\Code\Empatica-ble-client-windows\bin\Debug\EmpaticaBLEClient.exe.config
+E:\UTRC Handover\Code\Empatica-ble-client-windows\obj\Debug\EmpaticaBLEClient.exe
+E:\UTRC Handover\Code\Empatica-ble-client-windows\obj\Debug\EmpaticaBLEClient.pdb
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\EmpaticaBLEClient.exe.config
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\EmpaticaBLEClient.exe
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\EmpaticaBLEClient.pdb
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\Microsoft.CSharp.dll
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\System.Data.dll
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\System.dll
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\System.Xml.dll
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\bin\Debug\System.Xml.Linq.dll
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\obj\Debug\EmpaticaBLEClient.csprojAssemblyReference.cache
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\obj\Debug\EmpaticaBLEClient.csproj.CopyComplete
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\obj\Debug\EmpaticaBLEClient.exe
+C:\Users\elor1\Desktop\Empatica-ble-client-windows\obj\Debug\EmpaticaBLEClient.pdb
